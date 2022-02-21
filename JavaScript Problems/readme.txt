@@ -1,0 +1,1 @@
+All of these problems were from Hackerranks challenge and prep problems. They were ran and confirmed working using their compiler and then uploaded to this repo.
